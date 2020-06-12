@@ -1,6 +1,6 @@
 ﻿# Robotic-Revenge-Automation
 
-Ever hated someone so much that you imagined one day you will revenge by giving his/her phone number to every dealer in the U.S.? That's what this script does. 
+Ever hated someone so much that you imagined one day you'd revenge by giving his/her phone number to every dealer in the U.S.? That's what this script does. 
 
 <img src="https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif" width="300" height="300" />
 
@@ -20,14 +20,14 @@ Always shuffle the mburl.csv before executing the scripts so that every dealer g
 ### Config.json
 You know what to do:
 {
-  "firstName": "Elon",
-  "lastName": "Musk",
-  "cellphone": "8885183752",
+  "firstName": "",
+  "lastName": "",
+  "cellphone": "",
   "prefPhone": false,
-  "customText": "I am an asshole which makes me a great boss",
-  "email": "Press@tesla.com",
-  "skipN": 0,
-  "limitN": 3
+  "customText": "",
+  "email": "",
+  "skipN": N,
+  "limitN": N
 }
 
 ### mburl.csv
