@@ -19,6 +19,7 @@ Always shuffle the mburl.csv before executing the scripts so that every dealer g
 
 ### Config.json
 You know what to do:
+```json
 {
   "firstName": "",
   "lastName": "",
@@ -29,7 +30,7 @@ You know what to do:
   "skipN": N,
   "limitN": N
 }
-
+```
 ### mburl.csv
 
 This is the file that contains all the links to the local mb websites.  By setting *skipN* in Config.json, you skip the first N rows from this file. The *limitN* will stop the scripts after sending to N dealers.
