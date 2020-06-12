@@ -1,6 +1,8 @@
-﻿# Robotic-Badass-Automation
+﻿# Robotic-Revenge-Automation
 
-Ever hated someone so much that you imagined one day you will revenge by giving his/her phone number to every dealer in the U.S.? 
+Ever hated someone so much that you imagined one day you will revenge by giving his/her phone number to every dealer in the U.S.? That's what this script does. 
+
+![Example](https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif "Mercedez Benz")
 
 # Rules
 
@@ -32,10 +34,6 @@ You know what to do:
 
 This is the file that contains all the links to the local mb websites.  By setting *skipN* in Config.json, you skip the first N rows from this file. The *limitN* will stop the scripts after sending to N dealers.
 
+### Other dealers
 
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
+In development
