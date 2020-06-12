@@ -2,7 +2,7 @@
 
 Ever hated someone so much that you imagined one day you will revenge by giving his/her phone number to every dealer in the U.S.? That's what this script does. 
 
-![Example](https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif "Mercedez Benz")
+<img src="https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif" width="100" height="100" />
 
 # Rules
 
