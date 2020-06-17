@@ -1,6 +1,6 @@
 ﻿# Robotic-Revenge-Automation
 
-Ever hated someone so much that you imagined one day you'd revenge by giving his/her phone number to every dealer in the U.S.? That's what this script does. 
+This tool was original used by the author to spam back a spammer. Ethical use only.
 
 <img src="https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif" width="300" height="300" />
 
