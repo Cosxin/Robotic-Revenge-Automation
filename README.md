@@ -1,6 +1,6 @@
 ﻿# Robotic-Revenge-Automation
 
-This tool was original used by the author to spam back a spammer. Ethical use only.
+This tool was originally used to spam back a spammer. Ethical use only.
 
 <img src="https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif" width="300" height="300" />
 
