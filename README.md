@@ -1,24 +1,19 @@
-﻿# Robotic-Revenge-Automation
+﻿# Robotic-Spammer-Automation
 
-This tool was originally used to spam back a spammer. Ethical use only.
-
-<img src="https://github.com/Cosxin/Robotic-Revenge-Automation/tree/master/MB/example.gif" width="300" height="300" />
+Send a phone number and an email address to every dealer in the U.S. This tool was originally used to spam a spammer. Ethical use only.
 
 # Rules
 
 ### Socially Responsible Robot
-Filling in random phone number/email address is strictly prohibited. To test, use an automated service numbers and no-reply email addresses.
+Do not use random numbers!!! To test, use an automated service numbers and no-reply email addresses.
 
 ### Equal Opportunity Robot
 Always shuffle the mburl.csv before executing the scripts so that every dealer get a chance to be employed.
-# Usage
 
-1. Get UiPath
-2. Modify Config.json
-3. Click Run in UiPath
+
 
 ### Config.json
-You know what to do:
+
 ```json
 {
   "firstName": "",
@@ -37,4 +32,4 @@ This is the file that contains all the links to the local mb websites.  By setti
 
 ### Other dealers
 
-In development, Toyota next
+In development
